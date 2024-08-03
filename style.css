@@ -314,15 +314,15 @@ span {
     /* color: black; */
 }
 
-.porject-layer a {
+/* .porject-layer a {
     font-size: 1.3rem;
     font-weight: 600;
     color: var(--snd-bf-color);
     cursor: pointer;
     transition: .5s ease;
-}
+} */
 
-.porject-layer a:hover {
+/* .porject-layer a:hover {
     transform: scale(1.5);
     color: var(--text-color);
 }
@@ -340,7 +340,7 @@ span {
 .porject-layer   a i{
     font-size: 3rem;
     color: var(--snd-bf-color);
-}
+} */
 
 /* contact section  */
 
